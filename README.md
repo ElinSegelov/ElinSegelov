@@ -4,7 +4,9 @@
 # 💫 About Me:
 I'm a problem-solving Frontend Developer with great communication skills and a knack for seeing things from different perspectives. I have several years of working experience in social work, where I got to level up my interpersonal skills. Now I want to use those skills together with my passion for coding to become a truly skilled and communicative developer. 
 <br>
+<br>
 🔭 I'm currently working on my final project in a frontend developer bootcamp, building an application where board gamers can post events and find more players for their board gaming parties.
+<br>
 <br>
 🌱 At the moment my focus is on deepening my skills i React and CSS. Further on I will look into Tailwind CSS and continue learning about Node.js
 <br>
