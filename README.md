@@ -2,24 +2,18 @@
 
 
 # 💫 About Me:
-📫 Email: elin.segelov@gmail.com
-💼 Portfolio: https://elinsegelov.netlify.app/
-
 I'm a problem-solving Frontend Developer with great communication skills and a knack for seeing things from different perspectives. I have several years of working experience in social work, where I got to level up my interpersonal skills. Now I want to use those skills together with my passion for coding to become a truly skilled and communicative developer. 
 <br>
-🔭 I'm currently working on my final project in a frontend developer 
+🔭 I'm currently working on my final project in a frontend developer bootcamp, building an application where board gamers can post events and find more players for their board gaming parties.
 <br>
-bootcamp, building an application where board gamers can post
-<br>
-events and find more players for their board gaming parties.
+🌱 At the moment my focus is on deepening my skills i React and CSS. Further on I will look into Tailwind CSS and continue learning about Node.js
 <br>
 <br>
-🌱 At the moment my focus is on deepening my skills i React and CSS.
+📫 Email: elin.segelov@gmail.com
 <br>
-Further on I will look into Tailwind CSS and continue learning about Node.js
-
+💼 Portfolio: https://elinsegelov.netlify.app/
 <br>
-
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elin-s-683a867a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@elin.segelov) 
 
