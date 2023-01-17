@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 
-# About Me:
+## About Me:
 I'm a problem-solving Frontend Developer with great communication skills and a knack for seeing things from different perspectives. I have several years of working experience in social work, where I got to level up my interpersonal skills. Now I want to use those skills together with my passion for coding to become a truly skilled and communicative developer. 
 <br>
 <br>
