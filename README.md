@@ -17,7 +17,7 @@ At the moment my focus is on deepening my skills in React with NextJs and learni
 🌐 LinkedIn: https://linkedin.com/in/elin-s-683a867a
 <br>
 <br>
-## 📍 Please take a look at my pinned projects below.
+## 📍 Please take a look at my repos: ![final-project(https://github.com/ElinSegelov/final-project) and rock-paper-scissors-lizard-spock
 <br>
 
 
