@@ -7,11 +7,10 @@
 I'm a problem-solving Frontend Developer with great communication skills and a knack for seeing things from different perspectives. I have several years of working experience in social work, where I got to level up my interpersonal skills. Now I want to use those skills together with my passion for coding to become a skilled and communicative developer. 
 <br>
 <br>
-🌱 At the moment my focus is on deepening my skills in React with NextJs and learning Typescript. Further on I'll be look into Docker and Jest and continue learning about Node.js
+At the moment my focus is on deepening my skills in React with NextJs and learning Typescript. Further on I'll be look into Docker and Jest and continue learning about Node.js
 <br>
 <br>
-## Please take a look at my pinned projects below.
-<br>
+## 📍 Please take a look at my pinned projects below.
 <br>
 📫 Email: elin.segelov@gmail.com
 <br>
@@ -19,6 +18,7 @@ I'm a problem-solving Frontend Developer with great communication skills and a k
 <br>
 <br>
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elin-s-683a867a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@elin.segelov) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elin-s-683a867a) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
