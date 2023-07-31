@@ -10,6 +10,9 @@ I'm a problem-solving Frontend Developer with great communication skills and a k
 🌱 At the moment my focus is on deepening my skills in React with NextJs and learning Typescript. Further on I'll be look into Docker and Jest and continue learning about Node.js
 <br>
 <br>
+###Please take a look at my pinned projects below
+<br>
+<br>
 📫 Email: elin.segelov@gmail.com
 <br>
 💼 Portfolio: https://elinsegelov.netlify.app/
